@@ -2069,15 +2069,20 @@ div.brians-face:hover:after {
 }
 
 .front-page-9 {
-	background-color: #fa5738;
+	background-color: purple;
 }
 
 .front-page-12 {
-	background-color: #f3f3f3;
+	background-color: green;
 }
 
 .front-page-12 .image-section {
 	color: #333;
+}
+
+.brians-face {
+	color: green;
+	filter: brightness(200%);
 }
 
 .front-page-12 .image-section a {
